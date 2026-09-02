@@ -1,0 +1,66 @@
+# ==============================
+# LLM / Mistral
+# ==============================
+mistralai
+
+# ==============================
+# RAG Framework
+# ==============================
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langchain-chroma
+
+# ==============================
+# Vector Database
+# ==============================
+chromadb
+
+# ==============================
+# Embeddings
+# ==============================
+sentence-transformers
+
+# ==============================
+# Document Loading
+# ==============================
+pypdf
+python-docx
+openpyxl
+beautifulsoup4
+unstructured
+
+# ==============================
+# Text Processing
+# ==============================
+tiktoken
+
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# API / Web Application
+# ==============================
+fastapi
+uvicorn
+python-multipart
+
+# ==============================
+# HTTP / Networking
+# ==============================
+requests
+httpx
+
+# ==============================
+# Data Processing
+# ==============================
+numpy
+pandas
+
+# ==============================
+# Utilities
+# ==============================
+pydantic
